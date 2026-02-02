@@ -11,6 +11,7 @@ int main()
     //2. Робимо злиття з master в mybranch  in VS, commit, push вітки і приймаєте на git.hub .
 
     cout << "Hello from branch!" << endl;
+    cout << "Hello from branch!" << endl;
 
     int a = 5, b = 10;
 
