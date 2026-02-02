@@ -16,5 +16,8 @@ int main()
 
     int result = Sum(a, b);
 
+
+    cout << "Some problems have popped up with my branch, but i got how it works\n";
+    cout << "Interesting...\n";
 }
 
